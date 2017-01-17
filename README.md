@@ -1,4 +1,4 @@
 # Hangman
 ```
-The old, traditional Hangman game but with **two modes**! 
+The traditional Hangman game but with TWO (I know, super exciting) modes! 
 ```
