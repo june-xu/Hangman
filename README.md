@@ -1,4 +1,7 @@
 # Hangman
+It is an **text-based game** that users to play Hangman in *two* modes. 
+
 ```
-The traditional Hangman game but with TWO (I know, super exciting) modes! 
+Written in Java
+Developed with PyCharm
 ```
